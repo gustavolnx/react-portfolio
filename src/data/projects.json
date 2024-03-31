@@ -1,24 +1,22 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Primeflix",
+    "imageSrc": "projects/filmes2.jpg",
+    "description": "Plataforma de filmes. Nela você pode salvar filmes nos favoritos, ver trailers, sinopse e avaliações de filmes.",
+    "skills": ["React", "Sass", "Node", "API"],
+    "source": "https://github.com/gustavolnx/ProjetoFilmes"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "HUB Campolim",
+    "imageSrc": "projects/hubcampolim.jpg",
+    "description": "Um touch screen para o condomínio HUB Campolim. Nele você pode ver informações do condomínio como galeria de fotos, eventos, localização, plantas e etc.",
+    "skills": ["PHP", "Sass", "JavaScript"],
+    "source": "https://github.com/gustavolnx/hubCampolim"
   },
   {
-    "title": "Project C",
+    "title": "Projetos em andamento",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Mais projetos serão adicionados em breve.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"

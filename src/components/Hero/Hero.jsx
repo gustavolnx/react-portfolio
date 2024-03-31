@@ -1,4 +1,5 @@
 import React from "react";
+import foto from "./foto.png";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
@@ -7,17 +8,23 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Olá, me chamo Gustavo!</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+         Sou um desenvolvedor Fullstack. 
+         <br></br>
+         Iniciei a carreira de TI em 2015, como Desenvolvedor atuo desde 2021, 
+        atualmente tenho conhecimento geral das tecnologias disponíveis 
+        no mercado de desenvolvimento;
+        <br>
+        </br>Tento me manter atualizado 
+        sempre estudando as novas tendências.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="#contact" className={styles.contactBtn}>
+          Entre em contato
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={foto}
         alt="Hero image of me"
         className={styles.heroImg}
       />

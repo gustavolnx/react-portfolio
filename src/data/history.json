@@ -1,29 +1,38 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Desenvolvedor Fullstack",
+    "organisation": "Eletromidia",
+    "startDate": "Agosto, 2023",
+    "endDate": "Presente",
+    "experiences": ["Desenvolvimento front e back end", "Automações em Python", 
+    "Criação de Páginas, Layouts, Dashboards, entre outros. Usando Skills modernas."],
+    "imageSrc": "history/eletromidia.jpg"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Assist. Desenv. Backend",
+    "organisation": "AMEnergia",
+    "startDate": "Dez, 2022",
+    "endDate": "Agosto, 2023",
+    "experiences": ["Implantação de faturas no sistema da empresa", 
+    "Manutenção/desenvolvimento de códigos para o sistema em PHP e Python.",
+    "Auditoria final de faturas no sistema do GEDI",
+    "Edição e extração de dados por planilha (excel).",
+    "Treinamento/apoio a novos colaboradores."],
+    "imageSrc": "history/ame.jpg"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+    "role": "Analista de Suporte N1",
+    "organisation": "Eduzz",
+    "startDate": "Abril, 2021",
+    "endDate": "Abril, 2022",
+    "experiences": ["Atendimento a clientes, produtores e afiliados", 
+    "Treinamento de novos colaboradores.",
+    "Criação de novos procedimentos padrão.",
+    "Elaboração de novas features para plataforma.",
+    "Consultas no Grafana, Postman, GLPI, Banco de dados"],
+    "imageSrc": "history/eduzz.jpg"
   }
+
+
+ 
 ]

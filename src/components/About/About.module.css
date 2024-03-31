@@ -83,10 +83,21 @@
 
   .aboutItems {
     margin-top: 29px;
+
   }
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
   }
+}
+
+
+section h2{
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-align: center;
 }

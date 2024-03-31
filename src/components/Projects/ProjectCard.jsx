@@ -10,7 +10,7 @@ export const ProjectCard = ({
     <div className={styles.container}>
       <img
         src={getImageUrl(imageSrc)}
-        alt={`Image of ${title}`}
+        alt={`Imagem do ${title}`}
         className={styles.image}
       />
       <h3 className={styles.title}>{title}</h3>
