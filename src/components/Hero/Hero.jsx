@@ -14,7 +14,7 @@ export const Hero = () => {
          <br></br>
          Iniciei a carreira de TI em 2015, como Desenvolvedor atuo desde 2021, 
         atualmente tenho conhecimento geral das tecnologias disponíveis 
-        no mercado de desenvolvimento;
+        no mercado de desenvolvimento.
         <br>
         </br>Tento me manter atualizado 
         sempre estudando as novas tendências.

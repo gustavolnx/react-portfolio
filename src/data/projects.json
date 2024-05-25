@@ -1,11 +1,32 @@
 [
   {
-    "title": "Primeflix",
-    "imageSrc": "projects/filmes2.jpg",
-    "description": "Plataforma de filmes. Nela você pode salvar filmes nos favoritos, ver trailers, sinopse e avaliações de filmes.",
-    "skills": ["React", "Sass", "Node", "API"],
-    "source": "https://github.com/gustavolnx/ProjetoFilmes"
+    "title": "Ferramenta de Chamados",
+    "imageSrc": "projects/chamados.jpg",
+    "description": "Uma ferramenta para gerenciar chamados de suporte. Nela você pode criar, editar, excluir e visualizar chamados. Assim como cadastrar usuários, clientes e fazer edições no perfil.",
+    "skills": ["React", "Firebase", "CSS"],
+    "source": "https://github.com/gustavolnx/comboTicketool"
   },
+
+
+  {
+    "title": "Dashboard Schaeffler",
+    "imageSrc": "projects/schaefler.jpg",
+    "description": "Um dashboard para a empresa Schaeffler. Nele você pode ver informações como gráficos, tabelas, indicativos e etc. Ele utiliza uma planilha excel que a empresa forneceu como base de dados.",
+    "skills": ["PHP", "JavaScript", "CSS", "CSV"],
+    "source": "https://github.com/gustavolnx/schaeffler"
+  },
+
+  {
+    "title": "Landingpage Junior Decorações",
+    "imageSrc": "projects/juniorleite.jpg",
+    "description": "Uma landingpage para a empresa Junior Decorações. Nela você pode ver informações sobre a empresa, serviços, produtos, contato e etc.",
+    "skills": ["PHP", "JavaScript", "jQuery","CSS", "MySQL"],
+    "source": "https://github.com/gustavolnx/schaeffler"
+  },
+
+  
+
+
   {
     "title": "HUB Campolim",
     "imageSrc": "projects/hubcampolim.jpg",
@@ -14,11 +35,10 @@
     "source": "https://github.com/gustavolnx/hubCampolim"
   },
   {
-    "title": "Projetos em andamento",
+    "title": "Mais projetos",
     "imageSrc": "projects/project.png",
-    "description": "Mais projetos serão adicionados em breve.",
+    "description": "Esses são apenas alguns dos projetos que já desenvolvi, coloquei um projeto de cada nicho. Para ver mais projetos acesse meu github.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/gustavolnx"
   }
 ]
